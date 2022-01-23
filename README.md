@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏻, I'm Jorge</h1>
 
-<img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 260px; float: right">
+<img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 220px; float: right">
 
 <p>
  <em> Software Developer - CEO at <a href="https://dev-jougito.com/" target="_blank">Source Core</a> </em>
