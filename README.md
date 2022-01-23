@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏻, I'm Jorge</h1>
 
-<img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 220px; float: right">
+<img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 230px; float: right">
 
 <p>
  <em> Software Developer - CEO at <a href="https://dev-jougito.com/" target="_blank">Source Core</a> </em>
@@ -33,11 +33,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
 </p>
