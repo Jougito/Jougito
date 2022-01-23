@@ -41,5 +41,5 @@
 </p>
 <div align="center">
  
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jougito&layout=compact&langs_count=6&theme=github_dark)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jougito&layout=compact&langs_count=6&theme=github_dark&exclude_repo=sharpwow)
 </div>
