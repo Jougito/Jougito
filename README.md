@@ -8,7 +8,7 @@
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=jougito.jougito)
 ![Wakatime](https://wakatime.com/badge/user/bdaaca84-bcb6-4cfa-8716-8c6d7b727f50.svg)
-[![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G%C3%B3mez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
+[![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
 [![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 
 - 🖥️ Currently developing at [Source Core](https://source-core.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
