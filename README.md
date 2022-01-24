@@ -7,10 +7,10 @@
 </p>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=jougito.jougito)
-[![Linkedin: jougito](https://img.shields.io/badge/Jorge_G%C3%B3mez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
+[![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G%C3%B3mez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
 [![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 
-- 🖥️ Currently developing at [Source Core](https://source-core.com/), [Jou Code](https://discord.gg/74gVSf7) and [NaerZone](https://naerzone.com/)
+- 🖥️ Currently developing at [Source Core](https://source-core.com/), [</Jou Code>](https://discord.gg/74gVSf7) and [NaerZone](https://naerzone.com/)
 - 📑 Contributed to projects like [NaerZone](https://naerzone.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife]() and [ESX Framework](https://esx-framework.github.io/)
 - 🧑🏻‍💻 Web applications and APPs, **Front-End** and **Back-End**, developer
 - 👨🏻‍🎓 [This]() is my dev curriculum
