@@ -20,25 +20,25 @@
 ### Languages and tools
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cs" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px">
+ <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.w3.org/Style/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.lua.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.cplusplus.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.c-sharpcorner.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cs" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://kotlinlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.ssh.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.vim.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="bash" width=40 height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <div align="center">
  
