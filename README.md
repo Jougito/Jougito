@@ -3,7 +3,7 @@
 <img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 230px; float: right">
 
 <p>
- <em> Software Developer - CEO at <a href="https://dev-jougito.com/" target="_blank">Source Core</a> </em>
+ <em> Software Developer - CEO at <a href="https://source-core.com/" target="_blank">Source Core</a> </em>
 </p>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=jougito.jougito)
