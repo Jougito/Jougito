@@ -1,13 +1,14 @@
 <h1>Hi there 👋🏻, I'm Jorge</h1>
 
-<img align="right" src=./.github/images/bored-tired.gif style="object-fit: cover; height: 230px; float: right">
+<img align="right" src=./.github/images/bored-tired.gif height="230px" style="object-fit: cover; float: right" />
 
 <p>
- <em> Software Developer - CEO at <a href="https://source-core.com/" target="_blank">Source Core</a> </em>
+ <em>Software Developer - CEO at <a href="https://source-core.com/" target="_blank">Source Core</a></em>
 </p>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=jougito.jougito)
-![Wakatime](https://wakatime.com/badge/user/bdaaca84-bcb6-4cfa-8716-8c6d7b727f50.svg)
+![Wakatime](https://wakatime.com/badge/user/bdaaca84-bcb6-4cfa-8716-8c6d7b727f50.svg?style=flat)
+[![Discord](https://img.shields.io/badge/-Jougito%230001-blue?style=flat&logo=discord&logoColor=white)](https://discord.gg/74gVSf7)
 [![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
 [![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 
