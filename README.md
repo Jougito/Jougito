@@ -1,4 +1,4 @@
-<h1>Hi there 👋🏻, I'm Jorge <a href="https://github.com/jougito"><img src="https://img.shields.io/github/followers/jougito?label=Follow&style=social" alt="GitHub Profile Follow"/></a></h1>
+<h1>Hi there 👋🏻, I'm Jorge (Jougito) <a href="https://github.com/jougito"><img src="https://img.shields.io/github/followers/jougito?label=Follow&style=social" alt="GitHub Profile Follow" /></a></h1>
 
 <img align="right" src=./.github/images/bored-tired.gif height="230px" style="object-fit: cover; float: right" />
 
@@ -13,7 +13,7 @@
 [![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
 
 - 🖥️ Currently developing at [Source Core](https://source-core.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
-- 📑 Contributed to projects like [NaerZone](https://naerzone.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife]() and [ESX Framework](https://esx-framework.github.io/)
+- 📑 Contributed to projects like [Dev Jougito](https://dev-jougito.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife]() and [ESX Framework](https://esx-framework.github.io/)
 - 🧑🏻‍💻 Web applications and APPs, **Front-End** and **Back-End**, developer
 - 👨🏻‍🎓 [This]() is my dev curriculum
 - 📫 Contact me by [email](mailto:jorge@dev-jougito.com), [Discord](https://discord.gg/74gVSf7) or [LinkedIn](https://www.linkedin.com/in/jougito/)
