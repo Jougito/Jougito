@@ -10,7 +10,6 @@
 ![Wakatime](https://wakatime.com/badge/user/bdaaca84-bcb6-4cfa-8716-8c6d7b727f50.svg?style=flat)
 [![Discord](https://img.shields.io/badge/-Jougito%230001-blue?style=flat&logo=discord&logoColor=white)](https://discord.gg/74gVSf7)
 [![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
-[![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 
 - 🖥️ Currently developing at [Source Core](https://source-core.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
 - 📑 Contributed to projects like [NaerZone](https://naerzone.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife]() and [ESX Framework](https://esx-framework.github.io/)
@@ -46,4 +45,9 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jougito&layout=compact&langs_count=6&theme=github_dark&exclude_repo=sharpwow)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jougito&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true)
+</div>
+
+<div align="center">
+ 
+<br>[![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 </div>
