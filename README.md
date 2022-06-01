@@ -1,9 +1,10 @@
-<h1>Hi there 👋🏻, I'm Jorge</h1>
+<h1>Hi there 👋🏻, I'm Jorge <a href="https://github.com/jougito"><img src="https://img.shields.io/github/followers/jougito?label=Follow&style=social" alt="GitHub Profile Follow"/></a></h1>
 
 <img align="right" src=./.github/images/bored-tired.gif height="230px" style="object-fit: cover; float: right" />
 
 <p>
- <em>Software Developer - CEO at <a href="https://source-core.com/" target="_blank">Source Core</a></em>
+ <em>Software Developer - CEO at <a href="https://source-core.com/" target="_blank">Source Core</a>
+ <br>Web applications and APPs, Front-End and Back-End, developer.</em>
 </p>
 
 ![Profile Visitors](https://visitor-badge.laobi.icu/badge?page_id=jougito.jougito)
@@ -45,9 +46,4 @@
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jougito&layout=compact&langs_count=6&theme=github_dark&exclude_repo=sharpwow)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jougito&theme=github_dark&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=true)
-</div>
-
-<div align="center">
- 
-<br>[![Github](https://img.shields.io/github/followers/jougito?label=Follow&style=social)](https://github.com/jougito)
 </div>
