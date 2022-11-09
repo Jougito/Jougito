@@ -15,7 +15,7 @@
 - 🖥️ Currently developing at [Dev Jougito](https://dev-jougito.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
 - 📑 Contributed to projects like [Source Core](https://source-core.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife](https://afterliferoleplay.com/) and [ESX Framework](https://esx-framework.org/)
 - 🧑🏻‍💻 Web applications and APPs, **Front-End** and **Back-End**, developer
-- 👨🏻‍🎓 [This](https://jougito.com/cv) is my dev curriculum
+- 👨🏻‍🎓 [This](https://cv.jougito.com) is my dev curriculum
 - 📫 Contact me by [email](mailto:jorge@dev-jougito.com), [Discord](https://discord.gg/74gVSf7) or [LinkedIn](https://www.linkedin.com/in/jougito/)
 
 ### Languages and tools
