@@ -12,10 +12,10 @@
 [![Discord](https://img.shields.io/badge/-Jougito%230001-blue?style=flat&logo=discord&logoColor=white)](https://discord.gg/74gVSf7)
 [![Linkedin: Jougito](https://img.shields.io/badge/Jorge_G.-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jougito/)](https://www.linkedin.com/in/jougito/)
 
-- 🖥️ Currently developing at [Source Core](https://source-core.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
-- 📑 Contributed to projects like [Dev Jougito](https://dev-jougito.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife]() and [ESX Framework](https://esx-framework.github.io/)
+- 🖥️ Currently developing at [Dev Jougito](https://dev-jougito.com/), [</Jou Code>](https://jougito.tebex.io/) and [NaerZone](https://naerzone.com/)
+- 📑 Contributed to projects like [Source Core](https://source-core.com/), [42Madrid](https://www.42madrid.com/en/), [Afterlife](https://afterliferoleplay.com/) and [ESX Framework](https://esx-framework.org/)
 - 🧑🏻‍💻 Web applications and APPs, **Front-End** and **Back-End**, developer
-- 👨🏻‍🎓 [This](https://dev-jougito.com/cv.pdf) is my dev curriculum
+- 👨🏻‍🎓 [This](https://jougito.com/cv) is my dev curriculum
 - 📫 Contact me by [email](mailto:jorge@dev-jougito.com), [Discord](https://discord.gg/74gVSf7) or [LinkedIn](https://www.linkedin.com/in/jougito/)
 
 ### Languages and tools
